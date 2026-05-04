@@ -24,3 +24,6 @@ Sistema Operativo basado en Linux (Probado en Kali Linux).
 Nmap instalado.
 
 Permisos de superusuario (root) para ciertos tipos de escaneo.
+
+<img width="619" height="458" alt="Captura de pantalla 2026-05-04 223745" src="https://github.com/user-attachments/assets/b30c1077-3c4b-4861-8de3-62cd0bcd446b" />
+
