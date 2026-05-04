@@ -1,4 +1,4 @@
-Little Nmap Tool 🛠️
+Little Nmap Tool (Nivel: SMR1) 🛠️
 es un script interactivo diseñado para simplificar y agilizar el uso de Nmap. Ideal para auditores de red y entusiastas de la ciberseguridad que buscan ejecutar escaneos comunes de forma rápida a través de una interfaz de terminal intuitiva y organizada.
 
 El script automatiza los comandos más utilizados de Nmap, permitiendo realizar desde escaneos rápidos hasta detecciones de vulnerabilidades con solo seleccionar una opción.
